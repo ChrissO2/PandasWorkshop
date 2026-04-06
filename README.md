@@ -13,7 +13,7 @@ This project provides practical examples of common pandas operations including d
 
 ## Dataset
 
-The dataset is sourced from [Kaggle Transfers in 2016/17 Season](https://www.kaggle.com/datasets/vardan95ghazaryan/transfers-in-1617-season) and is included in the repository for easy access.
+The dataset is sourced from [Kaggle Football transfers 2007 - 2017](https://www.kaggle.com/datasets/vardan95ghazaryan/transfers-in-1617-season) and is included in the repository for easy access.
 
 ## Requirements
 
